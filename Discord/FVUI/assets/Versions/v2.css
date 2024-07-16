@@ -1,4 +1,4 @@
 :root{
-	--version:var(--showversion)!important;
+	--version: "MOR"!important;
 	--FVUI_build: "Pre-Release v2"!important;
 }
